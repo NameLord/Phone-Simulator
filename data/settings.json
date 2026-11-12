@@ -1,0 +1,84 @@
+{
+  "accessibility": {
+    "colorblind_accents": false,
+    "high_contrast": false,
+    "large_touch": false,
+    "reduce_motion": false
+  },
+  "apps": {
+    "installed": [
+      "store",
+      "browser",
+      "files"
+    ]
+  },
+  "device": {
+    "name": "Nova One"
+  },
+  "display": {
+    "accent": "rose",
+    "brightness": 1.0,
+    "device_frame": false,
+    "font_scale": 1.2,
+    "fx_crt": false,
+    "mode": "light",
+    "orientation": "landscape",
+    "power_saver": false,
+    "refresh_rate": 120,
+    "rotation_locked": false,
+    "scaling": "stretch",
+    "theme_pack": "auto",
+    "vsync": false,
+    "wallpaper": "synthwave",
+    "wallpaper_color1": "#5adcff",
+    "wallpaper_color2": "#7f78ff",
+    "wallpaper_density": 0.85,
+    "wallpaper_palette": "theme",
+    "wallpaper_power_saver_disable": true,
+    "wallpaper_random_unlock": false,
+    "wallpaper_seed": 264286,
+    "wallpaper_speed": 1.0,
+    "window_height": 718,
+    "window_mode": "windowed",
+    "window_width": 1080
+  },
+  "quick": {
+    "airplane": false,
+    "bluetooth": false,
+    "bluetooth_device": "",
+    "dnd": false,
+    "flashlight": false,
+    "hotspot": false,
+    "screen_recording": false,
+    "wifi": true,
+    "wifi_network": "PhoneOS Lab"
+  },
+  "security": {
+    "failed_attempts": 0,
+    "pin": "0000",
+    "pin_enabled": false
+  },
+  "simulation": {
+    "auto_reboot": false,
+    "calls_per_hour": 6.0,
+    "clock_speed": 60,
+    "dnd": false,
+    "dnd_end": 7,
+    "dnd_start": 22,
+    "drain_multiplier": 4.0,
+    "event_rate": "high",
+    "notification_rate": 30
+  },
+  "sound": {
+    "master_volume": 0.6237,
+    "muted": false
+  },
+  "system": {
+    "first_boot": 1792592199.7332,
+    "last_boot": 1793408195.5925922,
+    "onboarded": true
+  },
+  "weather": {
+    "city": "Lisbon"
+  }
+}

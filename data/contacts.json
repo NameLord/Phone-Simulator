@@ -1,0 +1,54 @@
+[
+  {
+    "color": [
+      90,
+      220,
+      255
+    ],
+    "email": "",
+    "favorite": false,
+    "id": "alex",
+    "name": "Alex Rivera",
+    "note": "",
+    "number": "+1 555 0101"
+  },
+  {
+    "color": [
+      150,
+      120,
+      255
+    ],
+    "email": "",
+    "favorite": false,
+    "id": "sam",
+    "name": "Sam Chen",
+    "note": "",
+    "number": "+1 555 0142"
+  },
+  {
+    "color": [
+      255,
+      186,
+      84
+    ],
+    "email": "",
+    "favorite": false,
+    "id": "mom",
+    "name": "Mom",
+    "note": "",
+    "number": "+1 555 0188"
+  },
+  {
+    "color": [
+      72,
+      226,
+      178
+    ],
+    "email": "",
+    "favorite": false,
+    "id": "jordan",
+    "name": "Jordan Blake",
+    "note": "",
+    "number": "+1 555 0119"
+  }
+]

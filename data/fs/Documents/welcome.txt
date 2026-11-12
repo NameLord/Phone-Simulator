@@ -1,0 +1,4 @@
+Welcome to Files.
+
+Everything here lives in data/fs/.
+Create, rename, edit and delete files. Writes are atomic.

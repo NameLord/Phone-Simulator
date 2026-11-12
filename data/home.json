@@ -1,0 +1,34 @@
+{
+  "dock": {
+    "ids": [],
+    "max": 4,
+    "show": true
+  },
+  "grid": {
+    "landscape": [
+      6,
+      2
+    ],
+    "portrait": [
+      4,
+      5
+    ]
+  },
+  "icons": {
+    "labels": true,
+    "pack": "rounded",
+    "scale": 1.0
+  },
+  "next_folder": 1,
+  "pages": [
+    [
+      "settings",
+      "store",
+      "browser",
+      "files"
+    ],
+    []
+  ],
+  "version": 1,
+  "widgets": []
+}

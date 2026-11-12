@@ -1,0 +1,12 @@
+{
+  "alarms": [],
+  "calendar_notified": [],
+  "next_id": 1,
+  "timer": {
+    "duration": 300.0,
+    "end_ts": null,
+    "label": "Timer",
+    "remaining": 300.0,
+    "running": false
+  }
+}

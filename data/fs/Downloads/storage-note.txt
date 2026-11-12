@@ -1,0 +1,1 @@
+This simulated phone has a 64 MB user quota. Keep an eye on the usage bar at the bottom of the screen.

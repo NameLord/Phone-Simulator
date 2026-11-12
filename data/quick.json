@@ -1,0 +1,13 @@
+{
+  "tiles": [
+    "wifi",
+    "bluetooth",
+    "dnd",
+    "battery_saver",
+    "flashlight",
+    "airplane",
+    "brightness",
+    "volume"
+  ],
+  "version": 1
+}
